@@ -24,9 +24,10 @@ Email: oboima007@gmail.com
 
 
 Фото проекта:
+![1](https://user-images.githubusercontent.com/80265410/110768463-4e7da980-8268-11eb-8703-bf0062e3454e.jpg)
 ![2](https://user-images.githubusercontent.com/80265410/110768453-4d4c7c80-8268-11eb-8d92-308f376de420.jpg)
 ![3](https://user-images.githubusercontent.com/80265410/110768462-4de51300-8268-11eb-89b2-00a0e95ad4f6.jpg)
-![1](https://user-images.githubusercontent.com/80265410/110768463-4e7da980-8268-11eb-8703-bf0062e3454e.jpg)
+
 
 
 
